@@ -2,7 +2,7 @@
 ===============
 
 <p align="center">
-  <img src="http://">
+  <img src="https://raw.githubusercontent.com/hisasann/shironeko-dayoftheweek-rune/master/image.jpg">
 </p>
 
 ## Overview
@@ -12,7 +12,7 @@
 ## Chromeを開発者モードにして拡張を読み込む
 
 <p align="center">
-  <img src="http://">
+  <img src="https://raw.githubusercontent.com/hisasann/shironeko-dayoftheweek-rune/master/extension.png">
 </p>
 
 ChromeのPreferenceの左ペインからExtensionを表示し、上の画像のように **デベロッパーモード** にチェックを入れる。
