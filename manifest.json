@@ -1,0 +1,12 @@
+{
+  "name": "shironeko-dayoftheweek-rune",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "白猫の曜日ルーンを表示する拡張です",
+  "browser_action" : {
+    "name": "Click to change the icon's color"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
